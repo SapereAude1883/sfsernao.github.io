@@ -23,9 +23,12 @@ author: CHIRP Group
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
 
-  Navbar Demo: nav_bar.html
+navbar-links:
+  Home: /
+  About Us: /aboutus/about.html
+  Publications: /publications/index.html
+
  
 #  About Us: /aboutus/about.html
  # Publications:#
